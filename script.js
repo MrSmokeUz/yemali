@@ -186,7 +186,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function navigateTo(path) {
-        history.pushState({}, '', path);
+        location.hash = '#${path}'
         renderPage();
     }
 
