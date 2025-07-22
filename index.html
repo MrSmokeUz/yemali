@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yemali Restaurant Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="loading-screen" class="loading-screen">
+        <div class="loading-content">
+            <div class="spinner"></div>
+            <p data-translate="loading">Загрузка...</p>
+        </div>
+    </div>
+
+    <header class="header">
+        <div class="container">
+            <h1 class="app-title"><a href="/" data-translate="appName">Yemali Restaurant Menu</a></h1>
+            <div class="language-switcher">
+                <select id="language-select" class="lang-select">
+                    <option value="ru" data-translate="langNameRu">Русский</option>
+                    <option value="en" data-translate="langNameEn">English</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main id="app-content" class="container main-content">
+        <!-- Content will be loaded here by JavaScript -->
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Made with Dyad</p>
+        </div>
+    </footer>
+
+    <div id="toast-container" class="toast-container"></div>
+    <script src="script.js"></script>
+</body>
+</html>
