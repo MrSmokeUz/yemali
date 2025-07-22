@@ -489,7 +489,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderPage() {
-        const path = window.location.pathname;
+        const path = location.hash.replace('#','') || '/';
         if (path === '/') {
             renderMenuPage();
         } else if (path === '/admin') {
