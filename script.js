@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: { ru: 'Традиционное азербайджанское блюдо из мясного фарша, завернутого в виноградные листья.', en: 'Traditional Azerbaijani dish made of minced meat wrapped in grape leaves.' },
             price: 12.50,
             category: 'Основные блюда',
-            imageUrl: 'images/meat-dolma-2.jpg'
+            imageUrl: 'https://zira.uz/wp-content/uploads/2018/04/dolma-2.jpg'
         },
         {
             id: '2',
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: { ru: 'Азербайджанский плов с тушеной бараниной и зеленью.', en: 'Azerbaijani pilaf with stewed lamb and herbs.' },
             price: 18.00,
             category: 'Основные блюда',
-            imageUrl: 'assets/images/meat-dolma-2.jpg'
+            imageUrl: 'https://ic.pics.livejournal.com/stalic/2762948/2761386/2761386_original.jpg'
         },
         {
             id: '3',
@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: { ru: 'Тонкие лепешки с начинкой из мясного фарша, обжаренные на садже.', en: 'Thin flatbreads filled with minced meat, cooked on a saj.' },
             price: 7.00,
             category: 'Закуски',
-            imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Qutab_with_meat.jpg/1280px-Qutab_with_meat.jpg'
+            imageUrl: 'https://img.iamcook.ru/old/upl/recipes/cat/u-dcbeb53f8765955968619d07d0608147.jpg'
         },
         {
             id: '4',
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: { ru: 'Тонкие лепешки с начинкой из свежей зелени, обжаренные на садже.', en: 'Thin flatbreads filled with fresh herbs, cooked on a saj.' },
             price: 6.50,
             category: 'Закуски',
-            imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Qutab_with_greens.jpg/1280px-Qutab_with_greens.jpg'
+            imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8w5JUCPo4ulnv1Pi_yGoBmwfrifmRjcpEjA&s'
         },
         {
             id: '5',
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: { ru: 'Маленькие пельмени в ароматном бульоне, подаются с уксусом и чесноком.', en: 'Small dumplings in aromatic broth, served with vinegar and garlic.' },
             price: 9.00,
             category: 'Супы',
-            imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dushbara.jpg/1280px-Dushbara.jpg'
+            imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVG03p_yKtdTqAzjGKfGV-9SZpnPkr3wcng&s'
         },
         {
             id: '6',
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: { ru: 'Слоеный десерт с орехами и сиропом, традиционное лакомство.', en: 'Layered dessert with nuts and syrup, a traditional treat.' },
             price: 5.00,
             category: 'Десерты',
-            imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pakhlava.jpg/1280px-Pakhlava.jpg'
+            imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCl3HO56TIAEmV4Ex2r4fM8g-6HxQ6O5eNQg&s'
         },
         {
             id: '7',
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: { ru: 'Сладкая выпечка с ореховой начинкой, украшенная узорами.', en: 'Sweet pastry with nut filling, decorated with patterns.' },
             price: 4.50,
             category: 'Десерты',
-            imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shekerbura.jpg/1280px-Shekerbura.jpg'
+            imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqA7zKL49gcbsjyKe5-AUg6anjzi6SrMlGjA&s'
         },
         {
             id: '8',
@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: { ru: 'Сладкая выпечка с ореховой начинкой, украшенная узорами.', en: 'Sweet pastry with nut filling, decorated with patterns.' },
             price: 4.50,
             category: 'Десерты',
-            imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shekerbura.jpg/1280px-Shekerbura.jpg'
+            imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqA7zKL49gcbsjyKe5-AUg6anjzi6SrMlGjA&s'
         },
         
     ];
